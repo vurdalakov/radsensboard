@@ -1,0 +1,19 @@
+{
+    "name": "RadSensBoard",
+    "version": "1.0.0",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/vurdalakov/radsensboard"
+    },
+    "description": "An Arduino library for RadSens Geiger counter board.",
+    "keywords": "geiger,radiation,radsens,climateguard",
+    "authors":
+    {
+        "name": "Vurdalakov",
+        "email": "vurdalakov@gmail.com",
+        "url": "https://github.com/vurdalakov",
+        "maintainer": true
+    },
+    "license": "MIT"
+}

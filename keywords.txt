@@ -1,0 +1,16 @@
+RadSensBoard	KEYWORD1
+init	KEYWORD2
+readData	KEYWORD2
+getRadiationLevelDynamic	KEYWORD2
+getRadiationLevelStatic	KEYWORD2
+getPulseCount	KEYWORD2
+resetPulseCount	KEYWORD2
+getFirmwareVersion	KEYWORD2
+getBoardAddress	KEYWORD2
+getHighVoltageGeneratorState	KEYWORD2
+setHighVoltageGeneratorState	KEYWORD2
+getCalibrationValue	KEYWORD2
+setCalibrationValue	KEYWORD2
+getLedIndicationState	KEYWORD2
+setLedIndicationState	KEYWORD2
+RADSENSBOARD_DEFAULT_I2C_ADDRESS	LITERAL1
