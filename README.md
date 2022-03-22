@@ -1,4 +1,4 @@
-    # RadSensBoard
+# RadSensBoard
 
 **RadSensBoard** is an Arduino library for RadSens Geiger counter board. It provides a simple access to all the RadSens board registers.
 
