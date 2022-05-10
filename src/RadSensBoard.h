@@ -17,7 +17,7 @@ private:
     uint8_t _rawData[21] = {0};
     float _radiationLevelDynamic;
     float _radiationLevelStatic;
-    uint32_t _pulseCount;
+    uint32_t _pulseCount = 0;
 
     bool writeRegister(uint8_t registerAddress, uint8_t registerValue);
 
